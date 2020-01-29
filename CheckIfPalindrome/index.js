@@ -1,0 +1,1 @@
+console.log((process.argv[2] || "") == (process.argv[2] || "").split("").reverse().join("") ? "Yes" : "No")
