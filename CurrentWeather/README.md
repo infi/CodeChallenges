@@ -6,4 +6,4 @@ https://github.com/karan/Projects#web
   
 ### Todo
 
-[ ] "*Optional: Try locating the user automatically.*"  
+- [ ] "*Optional: Try locating the user automatically.*"  
