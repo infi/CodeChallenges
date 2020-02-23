@@ -1,0 +1,14 @@
+{
+  "name": "currentweather",
+  "version": "0.0.1",
+  "description": "fetch current weather",
+  "main": "index.js",
+  "dependencies": {
+    "make-fetch-happen": "^8.0.1"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Infi <chefgeist@geist.ga> (https://geist.ga)",
+  "license": "BSL-1.0"
+}
