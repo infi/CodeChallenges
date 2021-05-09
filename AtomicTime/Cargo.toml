@@ -1,0 +1,10 @@
+[package]
+name = "atomic-time"
+version = "0.1.0"
+authors = ["Infi <rs@geist.ga>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ntp = "0.5.0"
